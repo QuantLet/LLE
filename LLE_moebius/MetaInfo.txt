@@ -1,0 +1,18 @@
+Name of QuantLet:   LLE_moebius
+
+Published in:       ''
+
+Description:        'Plotting the Moebius band'
+
+Keywords:
+ - plot
+ - LLE
+ - Moebius
+ - visualization
+ - dimensionality reduction
+
+Author:             Elizaveta Zinovyeva
+
+Submitted:          Thu, March 19 2020 by Elizaveta Zinovyeva
+
+Output:             'LLE_reduce.png', 'mobiusband.png', 'pca_reduce.png'
