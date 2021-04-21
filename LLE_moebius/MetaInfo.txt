@@ -15,4 +15,4 @@ Author:             Elizaveta Zinovyeva
 
 Submitted:          Thu, March 19 2020 by Elizaveta Zinovyeva
 
-Output:             'LLE_reduce.png', 'mobiusband.png', 'pca_reduce.png'
+Output:             'LLE_reduce.png, mobiusband.png, pca_reduce.png'
